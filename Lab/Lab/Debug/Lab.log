@@ -1,4 +1,5 @@
 ﻿  Clear_Container.cpp
+  Compare.cpp
   Init_Container.cpp
   In_Airplane.cpp
   In_Container.cpp
@@ -9,6 +10,7 @@
   Out_Container.cpp
   Out_Train.cpp
   Out_Transport.cpp
+  Sort.cpp
   Transport_Travel_time.cpp
   Создание кода...
   Lab.vcxproj -> C:\Users\of913\OneDrive\Рабочий стол\4_4_3_3_Git\Proc\Lab\Debug\Lab.exe

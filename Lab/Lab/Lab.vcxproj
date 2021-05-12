@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Clear_Container.cpp" />
+    <ClCompile Include="Compare.cpp" />
     <ClCompile Include="Init_Container.cpp" />
     <ClCompile Include="In_Airplane.cpp" />
     <ClCompile Include="In_Container.cpp" />
@@ -150,11 +151,13 @@
     <ClCompile Include="Out_Container.cpp" />
     <ClCompile Include="Out_Train.cpp" />
     <ClCompile Include="Out_Transport.cpp" />
+    <ClCompile Include="Sort.cpp" />
     <ClCompile Include="Transport_Travel_time.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Airplane.h" />
     <ClInclude Include="Clear_Container.h" />
+    <ClInclude Include="Compare.h" />
     <ClInclude Include="Container.h" />
     <ClInclude Include="Init_Container.h" />
     <ClInclude Include="In_Airplane.h" />
@@ -166,6 +169,7 @@
     <ClInclude Include="Out_Container.h" />
     <ClInclude Include="Out_Train.h" />
     <ClInclude Include="Out_Transport.h" />
+    <ClInclude Include="Sort.h" />
     <ClInclude Include="Train.h" />
     <ClInclude Include="Transport.h" />
     <ClInclude Include="Transport_Travel_time.h" />
