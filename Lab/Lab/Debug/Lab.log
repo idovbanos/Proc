@@ -2,11 +2,13 @@
   Init_Container.cpp
   In_Airplane.cpp
   In_Container.cpp
+  In_Ship.cpp
   In_Train.cpp
   In_Transport.cpp
   Lab.cpp
   Out_Airplane.cpp
   Out_Container.cpp
+  Out_Ship.cpp
   Out_Train.cpp
   Out_Transport.cpp
   Создание кода...
