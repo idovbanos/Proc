@@ -7,6 +7,7 @@
   Lab.cpp
   Out_Airplane.cpp
   Out_Container.cpp
+  Out_Only_Airplane.cpp
   Out_Train.cpp
   Out_Transport.cpp
   Создание кода...
