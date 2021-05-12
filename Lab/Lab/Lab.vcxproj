@@ -150,6 +150,7 @@
     <ClCompile Include="Out_Container.cpp" />
     <ClCompile Include="Out_Train.cpp" />
     <ClCompile Include="Out_Transport.cpp" />
+    <ClCompile Include="Transport_Travel_time.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Airplane.h" />
@@ -167,6 +168,7 @@
     <ClInclude Include="Out_Transport.h" />
     <ClInclude Include="Train.h" />
     <ClInclude Include="Transport.h" />
+    <ClInclude Include="Transport_Travel_time.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
