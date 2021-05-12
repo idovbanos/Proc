@@ -5,6 +5,7 @@ Airplane* In_Airplane(ifstream& ifst) {
     
     ifst >> A->Speed; //—читываем скорость
     ifst >> A->Distance; //—читывает рассто€ние м/у пунктами отправлени€ и назначени€
+    ifst >> A->Cargo_weight; //—читываем массу груза
     ifst >> A->Flight_range; //—читываем дальность полета
     ifst >> A->Load_capacity; //—читываем грузоподъемность
 
