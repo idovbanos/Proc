@@ -150,6 +150,7 @@
     <ClCompile Include="Lab.cpp" />
     <ClCompile Include="Out_Airplane.cpp" />
     <ClCompile Include="Out_Container.cpp" />
+    <ClCompile Include="Out_Only_Airplane.cpp" />
     <ClCompile Include="Out_Ship.cpp" />
     <ClCompile Include="Out_Train.cpp" />
     <ClCompile Include="Out_Transport.cpp" />
@@ -170,6 +171,7 @@
     <ClInclude Include="Key.h" />
     <ClInclude Include="Out_Airplane.h" />
     <ClInclude Include="Out_Container.h" />
+    <ClInclude Include="Out_Only_Airplane.h" />
     <ClInclude Include="Out_Ship.h" />
     <ClInclude Include="Out_Train.h" />
     <ClInclude Include="Out_Transport.h" />

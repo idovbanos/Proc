@@ -9,6 +9,7 @@
   Lab.cpp
   Out_Airplane.cpp
   Out_Container.cpp
+  Out_Only_Airplane.cpp
   Out_Ship.cpp
   Out_Train.cpp
   Out_Transport.cpp

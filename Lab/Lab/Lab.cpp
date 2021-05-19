@@ -6,6 +6,7 @@
 #include "Out_Container.h"
 #include "Clear_Container.h"
 #include "Sort.h"
+#include "Out_Only_Airplane.h"
 
 using namespace std;
 
@@ -35,6 +36,8 @@ int main(int argc, char* argv[]) {
     ofst << "Filled and sorted container. " << endl;
 
     Out_Container(Head, ofst); //Вывод контейнера
+
+    Out_Only_Airplane(Head, ofst); //Вывод только самолетов
 
     Clear_Container(Head, Tail); //Очистка контейнера
 
