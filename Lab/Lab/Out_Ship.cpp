@@ -18,5 +18,5 @@ void Out_Ship(int Speed, int Distance, Ship* S, ofstream& ofst) {
     ofst << endl;
 
     ofst << "Its Speed is " << Speed << " kilometers/hour" << endl;
-    ofst << "And Distance is " << Distance << " kilometers" << endl << endl;
+    ofst << "And Distance is " << Distance << " kilometers" << endl;
 }

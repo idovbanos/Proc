@@ -18,7 +18,7 @@ Transport* In_Transport(ifstream& ifst) {
     }
     else if (K == 3) { //Если K == 3, то это корабль
         T = (Transport*)In_Ship(ifst);
-        T->K = SHIP;
+        T->K = SHIP; //Записывает то, что это корабль
     }
     else {
         return 0;

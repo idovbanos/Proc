@@ -11,7 +11,7 @@ void Out_Transport(Transport* T, ofstream& ofst) {
         Out_Train(T->Speed, T->Distance, (Train*)T, ofst); //Выводим информацию о поезде
     }
     else if (T->K == SHIP) {
-        Out_Ship(T->Speed, T->Distance, (Ship*)T, ofst); //Выводим информацию о корабле
+        Out_Ship(T->Speed, T->Distance, (Ship*)T, ofst); //Выводим информацию о поезде
     }
     else {
         ofst << "Incorrect element!" << endl;
