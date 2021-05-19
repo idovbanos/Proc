@@ -16,9 +16,9 @@ Transport* In_Transport(ifstream& ifst) {
         T = (Transport*)In_Train(ifst);
         T->K = TRAIN; //Записывает то, что это поезд
     }
-    else if (K == 3) { //Если K == 3, то это корабль
+    else if (K == 3) {
         T = (Transport*)In_Ship(ifst);
-        T->K = SHIP; //Записывает то, что это корабль
+        T->K = SHIP;
     }
     else {
         return 0;
